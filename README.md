@@ -2,17 +2,17 @@
 
 # 💫 About Me
 
-#### 🔭 I’m currently working on Full Stack Web Development. Additionally, I have a strong interest in Artificial Intelligence as a Service (AIaaS) and Mobile Development.
+* 🔭 I’m currently working on Full Stack Web Development. Additionally, I have a strong interest in Artificial Intelligence as a Service (AIaaS) and Mobile Development.
 
-#### 👯 I’m looking to collaborate on anything really. I'm eager to collaborate on exciting projects and open to working on various topics. Whether it's building a new web application, exploring AI solutions, or creating innovative mobile apps, I'm open to diverse opportunities. 
+* 👯 I’m looking to collaborate on anything really. I'm eager to collaborate on exciting projects and open to working on various topics. Whether it's building a new web application, exploring AI solutions, or creating innovative mobile apps, I'm open to diverse opportunities. 
 
-#### 🤝 I’m looking for help in areas like DevOps, AIOps, Database Development, and Operating System Development. I believe collaboration and knowledge sharing are key to personal and professional growth.
+* 🤝 I’m looking for help in areas like DevOps, AIOps, Database Development, and Operating System Development. I believe collaboration and knowledge sharing are key to personal and professional growth.
 
-#### 🌱 I’m currently learning 🦀 Rust, 🔥 Py Torch, 🐤 Flutter, AWS and 🇮🇹 Italian.
+* 🌱 I’m currently learning 🦀 Rust, 🔥 Py Torch, 🐤 Flutter, AWS and 🇮🇹 Italian.
 
-#### ⚡ Music 🎵, Film 🎬, and TV Series 📺 nerd, I find immense joy in exploring various genres and discussing the latest releases. Additionally, my passion extends to philosophy 📚, mental health/psychology 🧠, and art 🎨. I believe these subjects enrich our understanding of the human experience and inspire creative thinking.
+* ⚡ Music 🎵, Audio 🎧, Film 🎬, and TV Series 📺 nerd, I find immense joy in exploring various genres and discussing the latest releases. Additionally, my passion extends to philosophy 📚, mental health/psychology 🧠, and art 🎨. I believe these subjects enrich our understanding of the human experience and inspire creative thinking.
 
-#### 💬 Ask me about anything
+* 💬 Ask me about anything
 
 
 # 💻 Tech Stack:
