@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on Full Stack Web Development. Additionally, I have a strong interest in Artificial Intelligence as a Service (AIaaS) and Mobile Development.<br>👯 I’m looking to collaborate on anything really. I'm eager to collaborate on exciting projects and open to working on various topics. Whether it's building a new web application, exploring AI solutions, or creating innovative mobile apps, I'm open to diverse opportunities. <br>🤝 I’m looking for help in areas like DevOps, AIOps, Database Development, and Operating System Development. I believe collaboration and knowledge sharing are key to personal and professional growth.<br>🌱 I’m currently learning 🦀 Rust, 🔥 Py Torch, 🐤 Flutter, AWS and 🇮🇹 Italian.<br>⚡ Music, Film and TV Series nerd. I have a keen interest in marketing, business and innovation.<br>💬 Ask me about anything<br><br>
+🔭 I’m currently working on Full Stack Web Development. Additionally, I have a strong interest in Artificial Intelligence as a Service (AIaaS) and Mobile Development.<br>👯 I’m looking to collaborate on anything really. I'm eager to collaborate on exciting projects and open to working on various topics. Whether it's building a new web application, exploring AI solutions, or creating innovative mobile apps, I'm open to diverse opportunities. <br>🤝 I’m looking for help in areas like DevOps, AIOps, Database Development, and Operating System Development. I believe collaboration and knowledge sharing are key to personal and professional growth.<br>🌱 I’m currently learning 🦀 Rust, 🔥 Py Torch, 🐤 Flutter, AWS and 🇮🇹 Italian.<br>⚡ Music 🎵, Film 🎬, and TV Series 📺 nerd, I find immense joy in exploring various genres and discussing the latest releases. Additionally, my passion extends to philosophy 📚, mental health/psychology 🧠, and art 🎨. I believe these subjects enrich our understanding of the human experience and inspire creative thinking.<br>💬 Ask me about anything<br><br>
 
 
 # 💻 Tech Stack:
@@ -20,9 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=brizuela-go&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=brizuela-go&icon=0&color=6)](https://visitcount.itsvg.in)
