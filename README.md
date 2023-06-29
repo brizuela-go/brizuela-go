@@ -9,7 +9,19 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/5RT9.gif"  />
+- 🔭 I’m currently working on Full Stack Web Development. Additionally, I have a strong interest in Artificial Intelligence as a Service (AIaaS) and Mobile Development.
+
+- 👯 I’m looking to collaborate on anything really. I'm eager to collaborate on exciting projects and open to working on various topics. Whether it's building a new web application, exploring AI solutions, or creating innovative mobile apps, I'm open to diverse opportunities.
+
+- 🤝 I’m looking for help in areas like DevOps, AIOps, Database Development, and Operating System Development. I believe collaboration and knowledge sharing are key to personal and professional growth.
+
+- 🌱 I’m currently learning 🦀 Rust, 🔥 Py Torch, 🐤 Flutter, AWS and 🇮🇹 Italian.
+
+- ⚡ Music 🎵, Audio 🎧, Film 🎬, and TV Series 📺 nerd, I find immense joy in exploring various genres and discussing the latest releases. Additionally, my passion extends to philosophy 📚, mental health/psychology 🧠, and art 🎨. I believe these subjects enrich our understanding of the human experience and inspire creative thinking.
+
+- 💬 Ask me about anything
+
+## 💻 Tech Stack
 
 ###
 
@@ -101,17 +113,19 @@
 
 ###
 
-<br clear="both">
+## 🏆 GitHub Trophies
 
-<img src="https://raw.githubusercontent.com/brizuela-go/brizuela-go/output/snake.svg" alt="Snake animation" />
+![](https://github-profile-trophy.vercel.app/?username=brizuela-go&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-###
+## ✍️ Random Dev Quote
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/brizuela-go/count.svg?"  />
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+---
+
+[![](https://visitcount.itsvg.in/api?id=brizuela-go&icon=0&color=6)](https://visitcount.itsvg.in)
+
+## 💰 You can help me by Donating
 
 <div align="center">
   <a href="https://www.linkedin.com/" target="_blank">
@@ -120,6 +134,3 @@
   <a href="https://www.paypal.com/paypalme/JuanBrizuela" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
-</div>
-
-###
