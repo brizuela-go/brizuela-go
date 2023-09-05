@@ -121,7 +121,15 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+## 💀 Random Programming Meme ![(api made by me)](https://github.com/brizuela-go/kekprogramming)
+
+![](https://kekprogramming.vercel.app/api/random)
+
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 [![](https://visitcount.itsvg.in/api?id=brizuela-go&icon=0&color=6)](https://visitcount.itsvg.in)
 
