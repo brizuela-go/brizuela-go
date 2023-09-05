@@ -124,9 +124,7 @@
 ## 💀 Random Programming Meme [(api made by me)](https://github.com/brizuela-go/kekprogramming)
 
 ![](https://kekprogramming.vercel.app/api/random)
-![](https://kekprogramming.vercel.app/api/random)
-![](https://kekprogramming.vercel.app/api/random)
-![](https://kekprogramming.vercel.app/api/random)
+
 
 
 
