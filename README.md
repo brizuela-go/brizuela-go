@@ -115,11 +115,15 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=brizuela-go&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=brizuela-go&theme=dracula&no-frame=true&no-bg=false&margin-w=4" />
+</div>
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
 ## 💀 Random Programming Meme [(api made by me)](https://github.com/brizuela-go/kekprogramming)
 
