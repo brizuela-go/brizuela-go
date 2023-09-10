@@ -25,7 +25,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -123,10 +123,9 @@
 
 ## 💀 Random Programming Meme [(api made by me)](https://github.com/brizuela-go/kekprogramming)
 
-![](https://kekprogramming.vercel.app/api/random)
-
-
-
+<div align="center">
+  <img width="300px" height="300px" src="https://kekprogramming.vercel.app/api/random" />
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=brizuela-go&icon=0&color=6)](https://visitcount.itsvg.in)
 
@@ -139,3 +138,4 @@
   <a href="https://www.paypal.com/paypalme/JuanBrizuela" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
+</div>
