@@ -142,7 +142,7 @@
   </a>
 </div>
 
-<!-- center the following -->
+##
 
 <div align="center">
     <img src="https://visitcount.itsvg.in/api?id=brizuela-go&icon=0&color=6" alt="Buy Me A Coffee" 
