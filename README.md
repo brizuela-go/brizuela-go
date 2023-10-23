@@ -131,8 +131,6 @@
   <img width="500px" height="500px" src="https://kekprogramming.vercel.app/api/random" />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=brizuela-go&icon=0&color=6)](https://visitcount.itsvg.in)
-
 ## 💰 You can help me by Donating
 
 <div align="center">
@@ -142,4 +140,12 @@
   <a href="https://www.paypal.com/paypalme/JuanBrizuela" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
+</div>
+
+<!-- center the following -->
+
+<div align="center">
+    <img src="https://visitcount.itsvg.in/api?id=brizuela-go&icon=0&color=6" alt="Buy Me A Coffee" 
+    style="height: 26px !important; margin-top: 10px !important; margin-bottom: 30px !important;"
+      />
 </div>
