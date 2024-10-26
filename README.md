@@ -9,17 +9,7 @@
 
 ###
 
-- 🔭 I’m currently working on Full Stack Web Development. Additionally, I have a strong interest in Artificial Intelligence as a Service (AIaaS) and Mobile Development.
-
-- 👯 I’m looking to collaborate on exciting projects.
-
-- 🤝 I’m looking for help in areas like DevOps, AIOps, Database Development, and Operating System Development. I believe collaboration and knowledge sharing are key to personal and professional growth.
-
-- 🌱 I’m currently learning 🦀 Rust, 🔥 Py Torch, 🐤 Flutter, AWS and 🇮🇹 Italian.
-
-- ⚡ Music 🎵, Audio 🎧, Film 🎬, and TV Series 📺 nerd, I find immense joy in exploring various genres and discussing the latest releases. Additionally, my passion extends to philosophy 📚, mental health/psychology 🧠, and art 🎨. I believe these subjects enrich our understanding of the human experience and inspire creative thinking.
-
-- 💬 Ask me about web development.
+<img src="https://raw.githubusercontent.com/brizuela-go/brizuela-go/output/snake.svg" alt="Snake animation" />
 
 ## 💻 Tech Stack
 
@@ -178,10 +168,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wasm" height="40" alt="webassembly logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/brizuela-go/brizuela-go/output/snake.svg" alt="Snake animation" />
 
 ###
 
